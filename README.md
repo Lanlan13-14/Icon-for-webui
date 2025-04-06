@@ -4,3 +4,4 @@
 圆角30°需要自取
 喜欢欢迎给个star
  ![电脑端](./Examples.jpg) 
+![Stash使用](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/icon/stash.png) 这是图片下方的文本。
